@@ -1,0 +1,3 @@
+package: github.com/map34/sprider
+import:
+- package: golang.org/x/net

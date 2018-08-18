@@ -1,0 +1,6 @@
+hash: 2f75eca5ac5691f0bf02303f104dbcd3e9e65ae77818d9d2d7e6504a7190b9d0
+updated: 2018-08-18T10:15:46.208022-07:00
+imports:
+- name: golang.org/x/net
+  version: aaf60122140d3fcf75376d319f0554393160eb50
+testImports: []

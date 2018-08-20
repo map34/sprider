@@ -13,3 +13,9 @@
 
 # glide
 vendor
+
+# editors
+.vscode/
+
+# Mac
+.DS_Store/
